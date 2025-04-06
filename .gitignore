@@ -1,0 +1,5 @@
+node_modules
+pacakege-lock.json
+dist
+.vscode
+.DS_Store
