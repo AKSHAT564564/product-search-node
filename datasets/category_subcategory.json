@@ -1,0 +1,340 @@
+{
+  "categories": [
+    {
+      "name": "Toys & Games",
+      "subcategories": [
+        {
+          "name": "Action Figures & Collectibles",
+          "items": [
+            "Action Figures",
+            "Action Figures & Toy Figurines",
+            "Collectible Figurines",
+            "Collectible Toys",
+            "Collectible Vehicles",
+            "Die-Cast Vehicles",
+            "Plush Figures",
+            "Plush Interactive Toys",
+            "Plush Puppets",
+            "Toy Figures & Playsets"
+          ]
+        },
+        {
+          "name": "Building & Construction Toys",
+          "items": [
+            "Building Sets",
+            "Building Toys",
+            "Marble Runs",
+            "Model Kits",
+            "Models & Model Kits",
+            "Playsets & Vehicles",
+            "Train Sets",
+            "Trains & Accessories"
+          ]
+        },
+        {
+          "name": "Dolls & Accessories",
+          "items": [
+            "Doll Accessories",
+            "Dollhouse Accessories",
+            "Dollhouses",
+            "Dolls",
+            "Dolls & Accessories",
+            "Paper & Magnetic Dolls",
+            "Magnetic Dress-up Dolls"
+          ]
+        },
+        {
+          "name": "Educational Toys",
+          "items": [
+            "Counting & Math Toys",
+            "Electronic Learning Toys",
+            "Flash Cards",
+            "Letters & Numbers",
+            "Magnetic Letters & Words",
+            "Science Kits & Toys",
+            "Sorting & Stacking Toys",
+            "Stacking Blocks"
+          ]
+        },
+        {
+          "name": "Games",
+          "items": [
+            "Arcade & Table Games",
+            "Board Games",
+            "Card Games",
+            "Dice Games",
+            "Handheld Games",
+            "Puzzles",
+            "Tile Games",
+            "Travel Games",
+            "Video Games"
+          ]
+        },
+        {
+          "name": "Outdoor & Active Play",
+          "items": [
+            "Balls",
+            "Beach Toys",
+            "Bouncers",
+            "Bubbles",
+            "Flying Discs",
+            "Jumpers & Swings",
+            "Playground Balls",
+            "Ride-On Toys & Accessories",
+            "Scooters",
+            "Trampolines"
+          ]
+        },
+        {
+          "name": "Pretend Play",
+          "items": [
+            "Costumes & Accessories",
+            "Dress Up & Pretend Play",
+            "Kitchen Playsets",
+            "Play Food",
+            "Play Tools",
+            "Pretend Play",
+            "Stick Horses",
+            "Weapons & Armor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Home & Furniture",
+      "subcategories": [
+        {
+          "name": "Furniture",
+          "items": [
+            "Accent Furniture",
+            "Armchairs",
+            "Armoires & Dressers",
+            "Bed Frames",
+            "Bedroom Furniture",
+            "Benches",
+            "Bookcases",
+            "Chairs & Seats",
+            "Cribs & Nursery Beds",
+            "Desks",
+            "Kids' Furniture",
+            "Outdoor Furniture",
+            "Patio Furniture & Accessories",
+            "Sofas",
+            "Storage & Furniture",
+            "Tables"
+          ]
+        },
+        {
+          "name": "Bedding",
+          "items": [
+            "Baby Bedding",
+            "Bed Blankets",
+            "Bedding",
+            "Bedding Sets",
+            "Comforter Sets",
+            "Crib Bedding",
+            "Duvet Covers",
+            "Kids' Bedding",
+            "Pillowcases",
+            "Quilt Sets"
+          ]
+        },
+        {
+          "name": "Home Decor",
+          "items": [
+            "Accents",
+            "Candles & Holders",
+            "Decorative Pillows & Covers",
+            "Home Décor",
+            "Kids' Room Décor",
+            "Lamps & Shades",
+            "Picture Frames",
+            "Wall Décor",
+            "Window Treatments"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arts & Crafts",
+      "subcategories": [
+        {
+          "name": "Craft Supplies",
+          "items": [
+            "Art Paper",
+            "Art Sets",
+            "Beading Supplies",
+            "Clay & Dough",
+            "Colored Pencils",
+            "Craft Kits",
+            "Craft Supplies",
+            "Drawing & Painting Supplies",
+            "Paints",
+            "Scrapbooking"
+          ]
+        },
+        {
+          "name": "Fabric & Sewing",
+          "items": [
+            "Appliques & Decorative Patches",
+            "Fabric",
+            "Needlework",
+            "Sewing",
+            "Trim & Embellishments"
+          ]
+        },
+        {
+          "name": "Party & Event Supplies",
+          "items": [
+            "Balloons",
+            "Confetti",
+            "Party Supplies",
+            "Piñatas",
+            "Tablecovers"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sports & Outdoors",
+      "subcategories": [
+        {
+          "name": "Team Sports",
+          "items": [
+            "Baseball",
+            "Basketball",
+            "Soccer",
+            "Volleyball"
+          ]
+        },
+        {
+          "name": "Outdoor Recreation",
+          "items": [
+            "Boating & Sailing",
+            "Camping",
+            "Fishing",
+            "Hunting",
+            "Winter Sports"
+          ]
+        },
+        {
+          "name": "Fitness Equipment",
+          "items": [
+            "Agility Equipment",
+            "Fitness Equipment",
+            "Gymnastics",
+            "Trampolines"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "name": "Audio & Video",
+          "items": [
+            "Headphones",
+            "Microphones",
+            "Portable Audio & Video",
+            "Speakers"
+          ]
+        },
+        {
+          "name": "Gaming",
+          "items": [
+            "Game Accessories",
+            "Video Games",
+            "Xbox One",
+            "PlayStation 4"
+          ]
+        },
+        {
+          "name": "Mobile Devices",
+          "items": [
+            "Cell Phones & Accessories",
+            "Tablet Accessories"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baby & Kids",
+      "subcategories": [
+        {
+          "name": "Baby Care",
+          "items": [
+            "Baby Care",
+            "Baby Products",
+            "Pacifiers, Teethers & Teething Relief",
+            "Strollers & Accessories"
+          ]
+        },
+        {
+          "name": "Kids' Clothing",
+          "items": [
+            "Baby Boys",
+            "Baby Girls",
+            "Boys",
+            "Girls",
+            "Kids' Accessories"
+          ]
+        },
+        {
+          "name": "Kids' Toys",
+          "items": [
+            "Baby & Toddler Toys",
+            "Baby Gyms & Playmats",
+            "Kids' Electronics",
+            "Musical Toys",
+            "Rattles & Plush Rings"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Automotive",
+      "subcategories": [
+        {
+          "name": "Parts & Accessories",
+          "items": [
+            "Alternators & Generators",
+            "Axles",
+            "Car & Truck Bodies",
+            "Components & Parts",
+            "Starters & Alternators"
+          ]
+        },
+        {
+          "name": "Vehicle Types",
+          "items": [
+            "Cars",
+            "Motorcycle Kits",
+            "Trucks",
+            "Watercraft"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pet Supplies",
+      "subcategories": [
+        {
+          "name": "Pet Toys",
+          "items": [
+            "Catnip Toys",
+            "Dogs",
+            "Training & Behavior Aids"
+          ]
+        },
+        {
+          "name": "Pet Care",
+          "items": [
+            "Habitats",
+            "Pet Supplies"
+          ]
+        }
+      ]
+    }
+  ]
+}

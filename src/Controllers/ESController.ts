@@ -3,6 +3,7 @@ import { ESUtils } from "../utils/EsUtils";
 import { Client } from "@elastic/elasticsearch";
 import { WriteResponseBase } from "@elastic/elasticsearch/lib/api/types";
 import Logger from "../utils/Logger";
+import { MatchedProduct } from "../types/collection";
 
 const logger = new Logger("ESController");
 
@@ -51,7 +52,10 @@ class ESController {
 
         if (matchedDocuments.length) {
           const documentsSource: any[] = matchedDocuments.map((document) => {
-            return document["_source"];
+            return {
+              '_id': document['_id'],
+              ...document['_source']
+            };
           });
 
           logger.info(
